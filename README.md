@@ -1,4 +1,4 @@
-# HTML5/CSS3 基礎概念纏め
+# HTML5/CSS3 基礎概念
 
 Tag : \<h1>\</h1>
 
