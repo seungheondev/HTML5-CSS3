@@ -18,9 +18,9 @@ Element : \<h1>Hello World\</h1> 全体を意味する。
 3. \<hr />, \<br /> void要素
 
 段落要素を別に作る代わりに、改行タグを使うことはよくない。<br />
-EX)
+EX)<br />
 \<p>Hello\<br /><br />
-     World\<br /><br />
+World\<br /><br />
 \</p>
 
 
