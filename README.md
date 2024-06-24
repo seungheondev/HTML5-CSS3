@@ -18,7 +18,9 @@ Element : \<h1>Hello World\</h1> 全体を意味する。
 3. \<hr />, \<br /> void要素
 
 段落要素を別に作る代わりに、改行タグを使うことはよくない。<br />
-EX)![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/eb388663-46c6-4770-ad8d-0168f49fad8d)
+EX)
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/eb388663-46c6-4770-ad8d-0168f49fad8d)
 
 
 
