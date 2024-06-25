@@ -22,4 +22,12 @@ Element : \<h1>Hello World\</h1> 全体を意味する。
 
 Example)
 
-![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/eb388663-46c6-4770-ad8d-0168f49fad8d)
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/eb388663-46c6-4770-ad8d-0168f49fad8d)<br>
+
+4. \<ul>\</ul>, \<li>\</li>, \<ol>\</ol> リスト要素
+
+5. \<a>\</a> アンカー要素
+
+6. \<img src="" alt="" /> 画像要素
+
+7. 絶対ファイルパス：コンピュータのルートから持ってくる。
