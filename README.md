@@ -5,17 +5,17 @@
 
 3. \<h1>\</h1> 見出し要素
 
-① h1タグは最上位の見出し、複数のh1タグを使うことはよくない。<br>
+・h1タグは最上位の見出し、複数のh1タグを使うことはよくない。<br>
 
-② 異なるレベルの見出しを飛び越えないように。<br><br>
+・異なるレベルの見出しを飛び越えないように。<br><br>
 
 4. \<p>\</p> 段落要素<br><br>
 
 5. \<hr>, \<br> void要素<br>
 
-① タグの中に内容を入れることが禁止されている。<br>
+・タグの中に内容を入れることが禁止されている。<br>
 
-② 段落要素を別に作る代わりに、改行タグを使うことはよくない。<br><br>
+・段落要素を別に作る代わりに、改行タグを使うことはよくない。<br><br>
 
 
 6. \<ul>\</ul>, \<li>\</li>, \<ol>\</ol> リスト要素<br><br>
@@ -26,40 +26,40 @@
 
 9. File Path
     
-① 絶対ファイルパス：コンピュータのルートから持ってくる。
+・絶対ファイルパス：コンピュータのルートから持ってくる。
 
-② 相対パス：フォルダを移動しても常に有効<br><br>
+・相対パス：フォルダを移動しても常に有効<br><br>
 
-10. \<!DOCTYPE html> : どのバージョンのHTMLで書かれたかをブラウザに知らせる。
+10. \<!DOCTYPE html> : どのバージョンのHTMLで書かれたかをブラウザに知らせる。<br><br>
 
 11. \<div>\</div> コンテンツ分割要素
    
-① CSSを適用するしない限り完全に不可視。<br><br>
+・CSSを適用するしない限り完全に不可視。<br><br>
 
 
 # CSS3
 1. CSS追加方法
 
-① Inline : \<tag style="css" />, HTMLページ上の１つの要素だけにCSSを追加する時に使う。→ 非効率的
+・Inline : \<tag style="css" />, HTMLページ上の１つの要素だけにCSSを追加する時に使う。→ 非効率的
 
-② Internal : \<style>css</style>, 他の要素にもCSSが適用される。
+・Internal : \<style>css</style>, 他の要素にもCSSが適用される。
 
-③ External : \<link href="style.css" />, WEB開発に一般的に使われているもの。<br><br>
+・External : \<link href="style.css" />, WEB開発に一般的に使われているもの。<br><br>
 
 2. CSSセレクター
 
-① クラスセレクター：指定したクラスにCSSを適用する。(グループ化)<br>
+・クラスセレクター：指定したクラスにCSSを適用する。(グループ化)<br>
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/0cddbb37-f14c-47f0-bea9-ad3deeb28e85)
 
-② 属性セレクター：特定の属性や特定の属性値を持った要素にCSSを適用する。<br>
+・属性セレクター：特定の属性や特定の属性値を持った要素にCSSを適用する。<br>
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/1759f8dd-2628-423e-9c02-8023195da0d4)<br><br>
 
 3. CSSプロパティ
 
-① カラープロパティ<br>
+・カラープロパティ<br>
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/93544fbf-d5b5-496f-a131-b26b8ff5f4e5)
 
-② テキストプロパティ<br>
+・テキストプロパティ<br>
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/62f3260b-1e0a-441b-a3ee-b7b39176e7eb)
 
 1px : 1/96th inch(0.26mm)
@@ -70,7 +70,7 @@
 
 1rem : 100% of root(ルートからの相対的なサイズ)<br><br>
 
-③ ボックスモデル
+・ボックスモデル
 
 padding : 要素とborderの間にスペースを追加する。
 
