@@ -83,6 +83,7 @@ margin : borderの外側にスペースを追加する。
 
 
 ・特異性(Specificity)
+
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/b8da4cf3-f8ee-4908-a79f-2841a88cda1c)
 
 
