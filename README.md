@@ -1,4 +1,4 @@
-# HTML5
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/be63cd49-f9b7-44ea-8fdd-1407b47580b7)# HTML5
 1.Tag : \<h1>\</h1><br><br>
 
 2.Element : \<h1>Hello World\</h1> 全体を意味する。<br><br>
@@ -68,28 +68,59 @@
 
 1em : 100% of parent(親タグのサイズ)
 
-1rem : 100% of root(ルートからの相対的なサイズ)<br><br>
+1rem : 100% of root(ルートからの相対的なサイズ)
 
 ・ボックスモデル
 
 padding : 要素とborderの間にスペースを追加する。
 
-margin : borderの外側にスペースを追加する。
+margin : borderの外側にスペースを追加する。<br><br>
 
-4.CSS
-・位置(Position)
+4.CSSカスケード
+
+Position < Specificity < Type < Importance
+
+・位置(Position)：blueが適用される。
 
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/a2886f7c-1035-4c3b-b4e9-7923b4941c2d)
 
 
-・特異性(Specificity)
+・特異性(Specificity)：最後のidで指定したCSSが適用される。
 
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/b8da4cf3-f8ee-4908-a79f-2841a88cda1c)
 
 
-・タイプ(Type)
+・タイプ(Type)：inlineが最優先される。
 
-・重要度(Importance)
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/bafb03f7-975a-4874-b487-88c94f5b32f2)
+
+
+・重要度(Importance)：greenが適用される。
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/8d6d2a3f-da58-4858-a441-148640e2e1f2)
+
+
+5.CSSセレクタの組み合わせ
+
+・グループルール
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/a5d496fa-d65f-4964-a9ea-49a943c2ce07)
+
+・子セレクタ
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/cb5d6a99-df97-448c-a65b-cc0ef7f3ed3d)
+
+・子孫セレクタ
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/fc9b80a4-ed1a-48a3-a143-272896020ec8)
+
+・連鎖セレクタ
+
+![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/66fc1142-77a4-4069-9cd3-0e1ec24675f5)
+
+
+
+
 
 
 
