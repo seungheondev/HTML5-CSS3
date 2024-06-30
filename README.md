@@ -119,6 +119,18 @@ Position < Specificity < Type < Importance
 
 ![image](https://github.com/seungheondev/HTML5-CSS3/assets/170543088/66fc1142-77a4-4069-9cd3-0e1ec24675f5)
 
+5.CSSポジション
+
+・相対配置
+static
+
+
+・絶対配置
+
+・固定配置
+
+・静的配置
+
 
 
 
